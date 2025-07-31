@@ -1,4 +1,4 @@
 ---
-title: 'GPMP'
+title: GPMP
 permalink: /opensource/
 ---
