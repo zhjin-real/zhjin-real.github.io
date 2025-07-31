@@ -3,6 +3,6 @@ title: "Learning stable state-dependent variable impedance control for compliant
 collection: publications
 category: manuscripts
 date: 2024
-venue: 'IEEE/ASME Transactions on Mechatronics'
+venue: 'IEEE-ASME Transactions on Mechatronics'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10718693'
 ---
