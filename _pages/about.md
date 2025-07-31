@@ -14,5 +14,5 @@ and 2024, respectively. My Ph.D. supervisor is Prof. [Li Yu](https://homepage.zj
 
 News
 =
-I have been awarded the 2024 Marie Skłodowska-Curie Postdoctoral Fellowship, and will join the Department of Computer Science, University of Liverpool, UK, in April 2026 under the supervision of Prof. [Chenguang Yang](https://www.liverpool.ac.uk/people/charlie-yang).
+Feb 2025: I have been awarded the 2024 Marie Skłodowska-Curie Postdoctoral Fellowship, and will join the Department of Computer Science, University of Liverpool, UK, in April 2026 under the supervision of Prof. [Chenguang Yang](https://www.liverpool.ac.uk/people/charlie-yang).
 
