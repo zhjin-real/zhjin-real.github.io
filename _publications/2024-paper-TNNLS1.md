@@ -1,8 +1,8 @@
 ---
-title: "Learning stable state-dependent variable impedance control for compliant manipulation"
+title: "Learning an Autonomous Dynamic System to Encode Periodic Human Motion Skills"
 collection: publications
 category: manuscripts
 date: 2024
-venue: 'IEEE/ASME Transactions on Mechatronics'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10718693'
+venue: 'IEEE Transactions on Neural Networks and Learning Systems'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10530433'
 ---
