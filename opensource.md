@@ -60,13 +60,13 @@ permalink: /opensource/
 
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
   <div>
-    <video controls width="240">
+    <video controls width="160">
       <source src="https://zhjin-real.github.io/files/exp2_video2-fixed.mp4" type="video/mp4">
     </video>
   </div>
 
    <div>
-    <video controls width="240">
+    <video controls width="160">
       <source src="https://zhjin-real.github.io/files/exp2_video4-fixed.mp4" type="video/mp4">
     </video>
     <p style="text-align:center;">Obstacle avoidance: with in 10ms (Optimization-free)</p>
