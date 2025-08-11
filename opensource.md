@@ -63,17 +63,20 @@ permalink: /opensource/
   gap: 16px;
   justify-items: center;
 ">
-  <video controls width="240">
+  <video controls width="200">
     <source src="https://zhjin-real.github.io/files/exp2_video1-fixed.mp4" type="video/mp4">
   </video>
   
-  <video controls width="240">
+  <video controls width="200">
     <source src="https://zhjin-real.github.io/files/exp2_video2-fixed.mp4" type="video/mp4">
   </video>
 
-  <video controls width="240">
-    <source src="https://zhjin-real.github.io/files/exp2_video4-fixed.mp4" type="video/mp4">
-  </video>
-  <p style="text-align:center;">Obstacle avoidance: with in 10ms (Optimization-free)</p>
+  <div style="text-align:center;">
+    <video controls width="200">
+      <source src="https://zhjin-real.github.io/files/exp2_video4-fixed.mp4" type="video/mp4">
+    </video>
+    <p>Obstacle avoidance: with in 10ms (Optimization-free)</p>
+  </div>
+  
 </div>
 
