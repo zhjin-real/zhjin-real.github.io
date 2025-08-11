@@ -67,7 +67,7 @@ permalink: /opensource/
 
    <div>
     <video controls width="240">
-      <source src="https://zhjin-real.github.io/files/exp2_video4.mp4-fixed" type="video/mp4">
+      <source src="https://zhjin-real.github.io/files/exp2_video4-fixed.mp4" type="video/mp4">
     </video>
     <p style="text-align:center;">Obstacle avoidance: with in 10ms (Optimization-free)</p>
   </div>
