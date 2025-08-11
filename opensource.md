@@ -32,3 +32,49 @@ permalink: /opensource/
   </div>
 </div>
 
+**Constrained motion planning**
+
+<p style="text-align:center;">Bimanual assembly with different end-direction constraints</p>
+
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <div>
+    <video controls width="240">
+      <source src="https://zhjin-real.github.io/files/exp1_video1.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <div>
+    <video controls width="240">
+      <source src="https://zhjin-real.github.io/files/exp1_video2.mp4" type="video/mp4">
+    </video>
+  </div>
+
+   <div>
+    <video controls width="240">
+      <source src="https://zhjin-real.github.io/files/exp1_video3.mp4" type="video/mp4">
+    </video>
+  </div>
+</div>
+
+<p style="text-align:center;">Test-tube insertion with different start and end-direction constraints</p>
+
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <div>
+    <video controls width="240">
+      <source src="https://zhjin-real.github.io/files/exp2_video1.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <div>
+    <video controls width="240">
+      <source src="https://zhjin-real.github.io/files/exp2_video2.mp4" type="video/mp4">
+    </video>
+  </div>
+
+   <div>
+    <video controls width="240">
+      <source src="https://zhjin-real.github.io/files/exp2_video4.mp4" type="video/mp4">
+    </video>
+    <p style="text-align:center;">Obstacle avoidance: with in 10ms (Optimization-free)</p>
+  </div>
+</div>
