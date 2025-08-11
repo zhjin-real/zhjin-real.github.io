@@ -39,19 +39,19 @@ permalink: /opensource/
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
   <div>
     <video controls width="240">
-      <source src="https://zhjin-real.github.io/files/exp1_video1.mp4" type="video/mp4">
+      <source src="https://zhjin-real.github.io/files/exp1_video1-fixed.mp4" type="video/mp4">
     </video>
   </div>
 
   <div>
     <video controls width="240">
-      <source src="https://zhjin-real.github.io/files/exp1_video2.mp4" type="video/mp4">
+      <source src="https://zhjin-real.github.io/files/exp1_video2-fixed.mp4" type="video/mp4">
     </video>
   </div>
 
    <div>
     <video controls width="240">
-      <source src="https://zhjin-real.github.io/files/exp1_video3.mp4" type="video/mp4">
+      <source src="https://zhjin-real.github.io/files/exp1_video3-fixed.mp4" type="video/mp4">
     </video>
   </div>
 </div>
@@ -61,19 +61,13 @@ permalink: /opensource/
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
   <div>
     <video controls width="240">
-      <source src="https://zhjin-real.github.io/files/exp2_video1.mp4" type="video/mp4">
-    </video>
-  </div>
-
-  <div>
-    <video controls width="240">
-      <source src="https://zhjin-real.github.io/files/exp2_video2.mp4" type="video/mp4">
+      <source src="https://zhjin-real.github.io/files/exp2_video1-fixed.mp4" type="video/mp4">
     </video>
   </div>
 
    <div>
     <video controls width="240">
-      <source src="https://zhjin-real.github.io/files/exp2_video4.mp4" type="video/mp4">
+      <source src="https://zhjin-real.github.io/files/exp2_video4.mp4-fixed" type="video/mp4">
     </video>
     <p style="text-align:center;">Obstacle avoidance: with in 10ms (Optimization-free)</p>
   </div>
