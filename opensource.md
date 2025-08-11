@@ -57,18 +57,23 @@ permalink: /opensource/
 </div>
 
 <p style="text-align:center;">Test-tube insertion with different start and end-direction constraints</p>
+<div style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 16px;
+  justify-items: center;
+">
+  <video controls width="240">
+    <source src="https://zhjin-real.github.io/files/exp2_video1-fixed.mp4" type="video/mp4">
+  </video>
+  
+  <video controls width="240">
+    <source src="https://zhjin-real.github.io/files/exp2_video2-fixed.mp4" type="video/mp4">
+  </video>
 
-<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-  <div>
-    <video controls width="160">
-      <source src="https://zhjin-real.github.io/files/exp2_video2-fixed.mp4" type="video/mp4">
-    </video>
-  </div>
-
-   <div>
-    <video controls width="160">
-      <source src="https://zhjin-real.github.io/files/exp2_video4-fixed.mp4" type="video/mp4">
-    </video>
-    <p style="text-align:center;">Obstacle avoidance: with in 10ms (Optimization-free)</p>
-  </div>
+  <video controls width="240">
+    <source src="https://zhjin-real.github.io/files/exp2_video4-fixed.mp4" type="video/mp4">
+  </video>
+  <p style="text-align:center;">Obstacle avoidance: with in 10ms (Optimization-free)</p>
 </div>
+
