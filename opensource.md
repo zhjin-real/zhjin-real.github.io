@@ -9,7 +9,7 @@ permalink: /opensource/
 
 <div style="text-align:center;">
 <video width="320" height="240" controls>
-  <source src="https://zhjin-real.github.io/files/BendedLine-fixed.mp4" type="video/mp4" >
+  <source src="https://zhjin-real.github.io/files/BendedLine-energy-fixed.mp4" type="video/mp4" >
 </video>
   <p> Neural energy learning with gurantee of a unique minimum </p>
 </div>
