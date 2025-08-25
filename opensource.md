@@ -83,26 +83,37 @@ permalink: /opensource/
 
 **Diffusion Movement Primitives**: Multimodal Trajectory Generators for Generalizable Few-Shot Demonstration Learning
 
-<p style="text-align:center;">One-shot learning</p>
+<p style="text-align:center;">LASA data set</p>
 
-<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-  <div>
+<p style="text-align:center;">  </p>
+<div style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  justify-items: center;
+">
+  
+ <div style="text-align:center;">
     <video controls width="240">
       <source src="https://zhjin-real.github.io/files/BendedLine-fixed.mp4" type="video/mp4">
     </video>
+    <p>One-shot learning: case 1</p>
   </div>
 
-  <div>
+  <div style="text-align:center;">
     <video controls width="240">
       <source src="https://zhjin-real.github.io/files/CShape-fixed.mp4" type="video/mp4">
     </video>
+    <p>One-shot learning: case 2</p>
   </div>
 
-   <div>
+  <div style="text-align:center;">
     <video controls width="240">
       <source src="https://zhjin-real.github.io/files/DoubleBendedLine-fixed.mp4" type="video/mp4">
     </video>
+    <p>One-shot learning: case 3</p>
   </div>
+  
 </div>
 
 <p style="text-align:center;">  </p>
@@ -129,3 +140,56 @@ permalink: /opensource/
   
 </div>
 
+<p style="text-align:center;">Book insertion</p>
+
+<p style="text-align:center;">  </p>
+<div style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  justify-items: center;
+">
+  
+ <div style="text-align:center;">
+    <video controls width="240">
+      <source src="https://zhjin-real.github.io/files/demo_1-fixed.mp4" type="video/mp4">
+    </video>
+    <p>Demonstration 1</p>
+  </div>
+
+  <div style="text-align:center;">
+    <video controls width="240">
+      <source src="https://zhjin-real.github.io/files/demo_2-fixed.mp4" type="video/mp4">
+    </video>
+    <p>Demonstration 2</p>
+  </div>
+
+  <div style="text-align:center;">
+    <video controls width="240">
+      <source src="https://zhjin-real.github.io/files/tras_0-fixed.mp4" type="video/mp4">
+    </video>
+    <p>Generalization 1</p>
+  </div>
+
+   <div style="text-align:center;">
+    <video controls width="240">
+      <source src="https://zhjin-real.github.io/files/tras_1-fixed.mp4" type="video/mp4">
+    </video>
+    <p>Generalization 2</p>
+  </div>
+
+  <div style="text-align:center;">
+    <video controls width="240">
+      <source src="https://zhjin-real.github.io/files/tras_2-fixed.mp4" type="video/mp4">
+    </video>
+    <p>Generalization 3: Multimodal 1</p>
+  </div>
+
+  <div style="text-align:center;">
+    <video controls width="240">
+      <source src="https://zhjin-real.github.io/files/tras_3-fixed.mp4" type="video/mp4">
+    </video>
+    <p>Generalization 4: Multimodal 2</p>
+  </div>
+  
+</div>
