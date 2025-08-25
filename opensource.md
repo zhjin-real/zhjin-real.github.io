@@ -141,7 +141,7 @@ permalink: /opensource/
 </div>
 
 <p style="text-align:center;">Book insertion</p>
-
+<p style="text-align:center;">Multimodal demonstrations</p>
 <p style="text-align:center;">  </p>
 <div style="
   display: grid;
@@ -163,19 +163,20 @@ permalink: /opensource/
     </video>
     <p>Demonstration 2</p>
   </div>
+</div>
 
+
+<div style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  justify-items: center;
+">
   <div style="text-align:center;">
     <video controls width="240">
       <source src="https://zhjin-real.github.io/files/tras_0-fixed.mp4" type="video/mp4">
     </video>
     <p>Generalization 1</p>
-  </div>
-
-   <div style="text-align:center;">
-    <video controls width="240">
-      <source src="https://zhjin-real.github.io/files/tras_1-fixed.mp4" type="video/mp4">
-    </video>
-    <p>Generalization 2</p>
   </div>
 
   <div style="text-align:center;">
