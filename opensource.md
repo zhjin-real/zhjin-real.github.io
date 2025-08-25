@@ -152,14 +152,14 @@ permalink: /opensource/
   
  <div style="text-align:center;">
     <video controls width="240">
-      <source src="https://zhjin-real.github.io/files/demo_1-fixed.mp4" type="video/mp4">
+      <source src="https://zhjin-real.github.io/files/demon_1-fixed.mp4" type="video/mp4">
     </video>
     <p>Demonstration 1</p>
   </div>
 
   <div style="text-align:center;">
     <video controls width="240">
-      <source src="https://zhjin-real.github.io/files/demo_2-fixed.mp4" type="video/mp4">
+      <source src="https://zhjin-real.github.io/files/demon_2-fixed.mp4" type="video/mp4">
     </video>
     <p>Demonstration 2</p>
   </div>
