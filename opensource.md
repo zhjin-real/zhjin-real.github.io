@@ -165,7 +165,7 @@ permalink: /opensource/
   </div>
 </div>
 
-
+<p style="text-align:center;">Generalizations</p>
 <div style="
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -183,14 +183,14 @@ permalink: /opensource/
     <video controls width="240">
       <source src="https://zhjin-real.github.io/files/tras_2-fixed.mp4" type="video/mp4">
     </video>
-    <p>Generalization 3: Multimodal 1</p>
+    <p>Generalization 2: Multimodal sampling 1</p>
   </div>
 
   <div style="text-align:center;">
     <video controls width="240">
       <source src="https://zhjin-real.github.io/files/tras_3-fixed.mp4" type="video/mp4">
     </video>
-    <p>Generalization 4: Multimodal 2</p>
+    <p>Generalization 3: Multimodal sampling 2</p>
   </div>
   
 </div>
